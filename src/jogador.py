@@ -14,7 +14,7 @@ class JogadorAleatorio(Jogador):
         super().__init__(letra)
     def get_move(self, jogo):
        pass
-class JogadorVerdadeiro(Jogador)
+class JogadorVerdadeiro(Jogador):
     def __init__(self, letra):
         super().__init__(letra)
     def __init__(self, letra):
